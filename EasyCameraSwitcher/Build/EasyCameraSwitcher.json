@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "EasyCameraSwitcher.data.unityweb",
+"asmCodeUrl": "EasyCameraSwitcher.asm.code.unityweb",
+"asmMemoryUrl": "EasyCameraSwitcher.asm.memory.unityweb",
+"asmFrameworkUrl": "EasyCameraSwitcher.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
